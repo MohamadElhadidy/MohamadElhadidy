@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MohamadElhadidy&layout=compact&langs_count=10)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MohamadElhadidy&layout=compact&langs_count=12)
 
 ![](https://github-readme-stats.vercel.app/api?username=MohamadElhadidy&show_icons=true&theme=radical)
 <!--
