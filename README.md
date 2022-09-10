@@ -2,7 +2,7 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MohamadElhadidy&hide=Hack,Less,Shell,Batchfile,Procfile,scss&layout=compact&langs_count=10)
 
-[![](https://awesome-github-stats.azurewebsites.net/user-stats/MohamadElhadidy?cardType=github&theme=react&Ring=1C9CDD)](https://git.io/awesome-stats-card)
+[![](https://awesome-github-stats.azurewebsites.net/user-stats/MohamadElhadidy?cardType=github&theme=react&Ring=1C9CDD)]
 
 <!--
 **MohamadElhadidy/MohamadElhadidy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
