@@ -10,7 +10,7 @@ Now i am learning react js.
 * ✉️  You can contact me at [mohamad.elhadidy98@gmail.com](mailto:mohamad.elhadidy98@gmail.com).
 * 🧠  I'm learning React.
 * 🤝  I'm open to collaborating on Projects.
-* ⚡  I'm The Flash.
+* ⚡  I'm the flash.
 
 ### Skills
 
