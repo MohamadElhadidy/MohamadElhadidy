@@ -11,7 +11,6 @@ Now i am learning react js.
 * 🚀  I'm currently working on [E-Commerce Clothing Store](http://ecom-clothing-nine.vercel.app/)
 * 🧠  I'm learning React.
 * 🤝  I'm open to collaborating on Projects.
-* ⚡  I'm the flash.
 
 ### Skills
 
