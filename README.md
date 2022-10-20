@@ -38,6 +38,7 @@ Now i am learning react js.
 
 ### Socials
 <p align="left"> <a href="https://www.github.com/MohamadElhadidy" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.codewars.com/MohamadElhadidy" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/305890/codewars.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
