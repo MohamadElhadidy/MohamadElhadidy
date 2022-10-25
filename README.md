@@ -6,7 +6,6 @@ I started my coding journey in 2018 with PHP then later with laravel.
 I am actively trying to expand my knowledge and hone my skills. 
 Now i am learning react js.
 
-* 🌍  I'm based in Egypt.
 * ✉️  You can contact me at [mohamad.elhadidy98@gmail.com](mailto:mohamad.elhadidy98@gmail.com).
 * 🤝  I'm open to collaborating on Projects.
 
