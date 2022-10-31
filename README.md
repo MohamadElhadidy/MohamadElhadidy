@@ -2,7 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ========================================================================================================================================
 Full-stack developer
 --------------------
-I started my coding journey in 2018 with PHP then later with laravel.
+I started my coding journey in 2018 with PHP then later with laravel. 
 I am actively trying to expand my knowledge and hone my skills. 
 Now i am learning react js.
 
