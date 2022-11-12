@@ -1,15 +1,5 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mohamad Elhadidy
-========================================================================================================================================
-Full-stack developer
---------------------
-I started my coding journey in 2018 with PHP then later with laravel. 
-I am actively trying to expand my knowledge and hone my skills. 
-Now i am learning react js.
 
-* ✉️  You can contact me at [mohamad.elhadidy98@gmail.com](mailto:mohamad.elhadidy98@gmail.com).
-* 🤝  I'm open to collaborating on Projects.
-
-### Skills
+### 
 
 <p align="left">
 <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
@@ -34,11 +24,11 @@ Now i am learning react js.
                     
 
 
-### Socials
+### 
 <p align="left">  <a href="https://www.codepen.io/elhadidy" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" /></a> <a href="https://discord.com/users/898292592335274084" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.facebook.com/mohamadelhadidy98" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/MohamadElhadidy" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/mohamadelhadidy98" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 <a href="https://www.codewars.com/users/MohamadElhadidy" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/MohamadElhadidy/MohamadElhadidy/master/codewars.svg" width="32" height="32" /></a></p>
 
-### Badges
+### 
 
 <b>My GitHub Stats</b>
 
