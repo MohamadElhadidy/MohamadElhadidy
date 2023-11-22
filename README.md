@@ -1,10 +1,8 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Mohamad Elhadidy
 ========================================================================================================================================
 
-Laravel Developer
------------------
-
-🪄 I'm a Laravel developer with a passion for turning ideas into functional web solutions.
+Laravel Developer | Intermediate React Native Developer
+-------------------------------------------------------
 
 *   🌍  I'm based in Egypt
 *   🖥️  See my portfolio at [MyPortfolio](http://elhadidy.co)
