@@ -5,7 +5,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 -------------------------------------------------------
 
 *   🌍  I'm based in Egypt
-[comment]: <> *   🖥️  See my portfolio at [MyPortfolio](http://elhadidy.co)
+<!--- *   🖥️  See my portfolio at [MyPortfolio](http://elhadidy.co) -->
 *   ✉️  You can contact me at [mohamad@elhadidy.co](mailto:mohamad@elhadidy.co)
 *   🤝  I'm open to collaborating on Projects
 
