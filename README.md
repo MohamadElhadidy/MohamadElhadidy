@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Mohamad Elhadidy
 
-Laravel Backend Developer with 6+ years of experience building real-world business systems using PHP and Laravel.
+Laravel Backend Developer with 6+ years building production business systems using PHP and Laravel.
 
 I specialize in backend architecture, REST APIs, MySQL database design, role-based access control, queues, and production deployments on Linux VPS.
 
@@ -18,6 +18,9 @@ Currently focused on building production-grade Laravel systems and open to remot
 - Service Layer Architecture
 - Form Requests & Validation
 - Policies & RBAC
+- Laravel Sanctum
+- Feature Testing (basic)
+- Clean Architecture / Service Layer Pattern
 
 **Database**
 - MySQL
@@ -46,6 +49,8 @@ Backend system for managing warehouses, stock transactions, suppliers, and repor
 **Stack:** Laravel, MySQL, Livewire, Queues  
 👉 Repo: https://github.com/MohamadElhadidy/warehouse-inventory-laravel
 
+Used to simulate real warehouse operations including transactional stock handling and reporting.
+
 ---
 
 ### ⏱ Employee Attendance & Shift Management Platform
@@ -53,6 +58,7 @@ Attendance tracking and shift scheduling platform with reporting and RBAC.
 **Stack:** Laravel, MySQL, Sanctum, Redis  
 👉 Repo: https://github.com/MohamadElhadidy/attendance-shifts-laravel
 
+Designed to reflect real HR attendance workflows with monthly summaries.
 ---
 
 ### 💳 Client Billing & Subscription Management System
@@ -60,6 +66,7 @@ Client subscription management, invoice generation, and revenue reporting backen
 **Stack:** Laravel, MySQL, Sanctum, Queues  
 👉 Repo: https://github.com/MohamadElhadidy/billing-subscriptions-laravel
 
+Implements real billing flows including subscriptions and queued invoice generation.
 ---
 
 ## 💼 Professional Experience
@@ -67,7 +74,7 @@ Client subscription management, invoice generation, and revenue reporting backen
 Backend Developer — Marine Logistics Company (Damietta Port, Egypt)  
 Since 2018
 
-- Built shipping tracking systems
+- Built shipping tracking systems to monitor vessel status and cargo movement
 - Developed HR and equipment tracking platforms
 - Designed inventory and expenditure management systems
 - Designed MySQL schemas and optimized queries
@@ -86,4 +93,3 @@ Since 2018
 
 ⭐ Focused on building scalable backend systems with clean architecture.
 
-<a href="http://www.github.com/MohamadElhadidy"><img src="https://github-readme-streak-stats.herokuapp.com/?user=MohamadElhadidy&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
