@@ -1,4 +1,3 @@
-
 # 👋 Hi, I'm Mohamad Elhadidy
 
 Laravel Backend Developer with 6+ years of experience building real-world business systems using PHP and Laravel.
@@ -13,7 +12,7 @@ Currently focused on building production-grade Laravel systems and open to remot
 
 **Backend**
 - PHP
-- Laravel (10/11/12)
+- Laravel
 - Livewire & Livewire Volt
 - REST APIs
 - Service Layer Architecture
@@ -80,7 +79,7 @@ Since 2018
 ## 📫 Contact
 
 - LinkedIn: https://www.linkedin.com/in/mohamadelhadidy98/
-- Portfolio: https://mohamadelhadidy.com
+- Portfolio: [https://mohamadelhadidy.com](https://portfolio.mohamadelhadidy.com/)
 - Email: mohamad.elhadidy98@gmail.com
 
 ---
