@@ -59,7 +59,6 @@ Since 2018
 ## 📫 Contact
 
 - LinkedIn: [Linkedin](https://www.linkedin.com/in/mohamadelhadidy98)
-- Portfolio: [Portfolio](https://portfolio.mohamadelhadidy.com/)
 - Email: mohamad.elhadidy98@gmail.com
 
 ---
