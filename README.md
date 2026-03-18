@@ -42,33 +42,6 @@ Currently focused on building production-grade Laravel systems and open to remot
 
 ---
 
-## 🚀 Featured Projects
-
-### 🏭 Warehouse Inventory Management System
-Backend system for managing warehouses, stock transactions, suppliers, and reporting.  
-**Stack:** Laravel, MySQL, Livewire, Queues  
-👉 Repo: https://github.com/MohamadElhadidy/warehouse-inventory-laravel
-
-Used to simulate real warehouse operations including transactional stock handling and reporting.
-
----
-
-### ⏱ Employee Attendance & Shift Management Platform
-Attendance tracking and shift scheduling platform with reporting and RBAC.  
-**Stack:** Laravel, MySQL, Sanctum, Redis  
-👉 Repo: https://github.com/MohamadElhadidy/attendance-shifts-laravel
-
-Designed to reflect real HR attendance workflows with monthly summaries.
----
-
-### 💳 Client Billing & Subscription Management System
-Client subscription management, invoice generation, and revenue reporting backend.  
-**Stack:** Laravel, MySQL, Sanctum, Queues  
-👉 Repo: https://github.com/MohamadElhadidy/billing-subscriptions-laravel
-
-Implements real billing flows including subscriptions and queued invoice generation.
----
-
 ## 💼 Professional Experience
 
 Backend Developer — Marine Logistics Company (Damietta Port, Egypt)  
