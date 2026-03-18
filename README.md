@@ -1,67 +1,64 @@
-# 👋 Hi, I'm Mohamad Elhadidy
+# 👋 Hi, I'm Mohamed Elhadidy
 
-Laravel Backend Developer with 6+ years building production business systems using PHP and Laravel.
+**Laravel Backend Developer** — 6+ years building production business systems using PHP and Laravel for the marine logistics industry.
 
-I specialize in backend architecture, REST APIs, MySQL database design, role-based access control, queues, and production deployments on Linux VPS.
+I specialize in backend architecture, REST APIs, MySQL optimization, role-based access control, queues, and Linux VPS deployments.
 
-Currently focused on building production-grade Laravel systems and open to remote Backend / Laravel opportunities.
+Currently open to **remote Laravel / PHP backend opportunities**.
 
 ---
 
 ## 🛠 Tech Stack
 
 **Backend**
-- PHP
-- Laravel
-- Livewire & Livewire Volt
-- REST APIs
-- Service Layer Architecture
-- Form Requests & Validation
-- Policies & RBAC
-- Laravel Sanctum
-- Feature Testing (basic)
-- Clean Architecture / Service Layer Pattern
+`PHP 8+` `Laravel` `REST APIs` `Eloquent ORM` `Service Layer Architecture`
+`Form Requests` `API Resources` `Policies & RBAC` `Laravel Sanctum` `Livewire`
 
 **Database**
-- MySQL
-- Query Optimization
-- Indexing
-- Migrations & Seeders
+`MySQL` `Query Optimization` `Indexing` `Migrations` `Seeders` `Factories`
 
-**Caching & Async**
-- Redis (basic)
-- Laravel Queues
-- Background Jobs
+**Async & Performance**
+`Laravel Queues` `Background Jobs` `Laravel Scheduler` `Redis` `Chunked Exports`
+
+**Auth & Security**
+`Sanctum` `Session Auth` `RBAC (Policies/Gates)` `CSRF` `Audit Logging`
 
 **DevOps**
-- Linux VPS Deployment
-- Nginx
-- SSL Setup
-- Environment Configuration
-- Git
+`Linux VPS` `Nginx` `SSL` `Supervisor` `Git / GitHub` `Environment Config`
 
 ---
 
 ## 💼 Professional Experience
 
-Backend Developer — Marine Logistics Company (Damietta Port, Egypt)  
-Since 2018
+**Backend Developer — Marine Logistics Company**
+📍 Damietta Port, Egypt | 2018 – Present
 
-- Built shipping tracking systems to monitor vessel status and cargo movement
-- Developed HR and equipment tracking platforms
-- Designed inventory and expenditure management systems
-- Designed MySQL schemas and optimized queries
-- Implemented authentication and role-based access control
-- Maintained production systems used daily by staff
+Built and maintained multiple internal production systems used daily by operations staff:
 
----
+- 🚢 **Shipping Tracking System** — vessel status and cargo movement monitoring
+- 👥 **HR Management System** — employee records, contracts, workflow automation
+- 📦 **Equipment Tracking Platform** — centralized asset data and logistics visibility
+- 💰 **Expenditure Tracking System** — departmental budgets and financial reporting
 
-## 📫 Contact
-
-- LinkedIn: [Linkedin](https://www.linkedin.com/in/mohamadelhadidy98)
-- Email: mohamad.elhadidy98@gmail.com
+Full ownership: requirements → database design → implementation → deployment → maintenance
 
 ---
 
-⭐ Focused on building scalable backend systems with clean architecture.
+## 🚀 Projects
 
+### 🏭 Warehouse Management System *(in progress)*
+> Laravel · MySQL · REST API · Role-based Access Control
+
+A production-grade inventory and warehouse management system.
+Features: product management, stock tracking, user roles, dashboard reporting.
+
+---
+
+## 📫 Get In Touch
+
+- 📧 mohamad.elhadidy98@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/mohamadelhadidy98)
+
+---
+
+*Available for remote work worldwide.*
