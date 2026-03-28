@@ -59,7 +59,7 @@ Production-grade warehouse management system with clean architecture.
 - Filament v3 admin panel with dashboard stats
 - Deployed on VPS with Nginx, SSL
 
-🔗 [Live Demo](https://warehouse.yourdomain.com) · [GitHub](https://github.com/MohamadElhadidy/warehouse-api)
+🔗 [Live Demo](https://warehouse.mohamadelhadidy.com) · [GitHub](https://github.com/MohamadElhadidy/warehouse-api)
 
 ---
 
