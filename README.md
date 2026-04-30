@@ -46,21 +46,6 @@ Full ownership: requirements → database design → implementation → deployme
 
 ---
 
-## 🚀 Projects
-
-### 🏭 Warehouse Management API
-> Laravel · MySQL · Redis · REST API · RBAC · Filament · Docker
-
-Production-grade warehouse management system with clean architecture.
-
-- Service Layer + Repository Pattern
-- Stock movement with DB transactions
-- Redis caching + queue jobs for low-stock alerts
-- Filament v3 admin panel with dashboard stats
-- Deployed on VPS with Nginx, SSL
-
-🔗 [Live Demo](https://warehouse.mohamadelhadidy.com) · [GitHub](https://github.com/MohamadElhadidy/warehouse-api)
-
 ---
 
 ## 📫 Get In Touch
