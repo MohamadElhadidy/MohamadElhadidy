@@ -1,6 +1,6 @@
 # Hi, I'm Mohamed Elhadidy 👋
 
-**Laravel Backend Developer** · Full-Stack · React Native · Open to Remote
+**Laravel Backend Developer** · Full-Stack · Open to Remote
 
 I don't build demos. I build systems people depend on every day.
 
