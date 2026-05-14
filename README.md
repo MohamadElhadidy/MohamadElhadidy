@@ -120,6 +120,6 @@ languages:    Arabic (native) · English (professional)
 
 ---
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=MohamadElhadidy&style=flat&color=2563A8" alt="profile views" />
-</p>
+</p> -->
