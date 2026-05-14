@@ -12,10 +12,10 @@ For 6+ years I've been the **sole developer** responsible for designing, buildin
 
 | System | Description | Stack |
 |---|---|---|
-| **Shipping System** | Tracks 1,500+ warehouse-to-vessel operations daily | Laravel · MySQL · Redis · Vue.js · Queues |
+| **Shipping System** | Tracks 1,500+ warehouse-to-vessel operations daily | Laravel · MySQL · Redis · Queues |
 | **Unloading System** | Full inbound vessel-to-warehouse logistics | Laravel · Livewire · MySQL · RBAC |
 | **HR Management** | Employee records & contracts for 300+ staff | Laravel · Livewire · MySQL · RBAC |
-| **Leave Request System** | Digital multi-stage approval workflow | Laravel · Notifications · MySQL |
+| **Leave Request System** | Digital multi-stage approval workflow | Laravel · Notifications · MySQL . Vue.js |
 | **Stores Management** | Real-time oil & spare parts inventory | Laravel · Livewire · MySQL |
 | **Equipment Management** | Port-wide asset & maintenance tracking | Laravel · REST API · MySQL |
 | **IT Management** | PCs, network & maintenance portal | Laravel · Livewire · RBAC |
